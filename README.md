@@ -2,7 +2,7 @@
 🌱 I’m currently learning Python, Java
 <p align='center'>Reach out on <a href="https://www.linkedin.com/in/semi">Linkedin</a>.</p>
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semiventurero&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
+
 
 
 <!--
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 -->
 <details>
   <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=semiventurero&show_icons=true&count_private=true&theme=dark" />
+  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semiventurero&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
 </details>
