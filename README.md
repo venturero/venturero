@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 <details>
-  <summary>More...</summary>
-  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semiventurero&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
+  <summary>More...</summary> 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semiventurero&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
 </details>
