@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 -->
 <details>
   <summary>More...</summary> 
-    <p align='center'>Reach out on <a href="https://medium.com/@semiventurero">Medium</a>.</p>
+    <p align='center'><a href="https://medium.com/@semiventurero">Medium</a>.</p>
 </details>
