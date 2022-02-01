@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <summary>More...</summary> 
     <p align='center'><a href="https://medium.com/@semiventurero">Medium</a></p>
 </details>
+    <p align='center'><a href="https://www.hackerrank.com/semiventurero">Hackerrank</a></p>
+</details>
+
