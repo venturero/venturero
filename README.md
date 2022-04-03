@@ -1,5 +1,5 @@
 ### Hello I'm Semi
-🌱 I’m currently learning Python, Java
+🌱 I’m currently learning Python& SQL
 <p align='center'>Reach out on <a href="https://www.linkedin.com/in/semi">Linkedin</a>.</p>
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venturero&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
