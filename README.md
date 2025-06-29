@@ -9,7 +9,7 @@
 
 - ✍️ My ![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white) account - [Medium](https://medium.com/@venturero)
 
-- 📖 Open source contributor. ([Comfy UI FAL Repo](https://github.com/gokayfem/ComfyUI-fal-API), [Ugani](https://github.com/Ugani-Prosthetics/ufit-blender/) etc.)
+- 📖 Open source contributor. ([Comfy UI FAL Repo](https://github.com/gokayfem/ComfyUI-fal-API), [Ugani](https://github.com/Ugani-Prosthetics/ufit-blender/), [Outlines Extraction](https://github.com/yusuf-eren/outlines-extraction) etc.)
 
 - 💬 Working on **AI, Python, SQL, Langchain, Langgraph, Django, Flask, etc.**
 
